@@ -1,0 +1,1 @@
+# Wyszukiwanie wzorca w tekście
